@@ -1,21 +1,11 @@
-# sell
-
-> sell app
+# vue-sell
 
 ## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+    install dependencies
+    npm install
+    serve with hot reload at localhost:8080
+    npm run dev
+## 项目介绍
+利用better-scroll做了滚动处理，也做了两个滚动列表的联动，做了加入购物车特效，vue-router做前端路由，模拟json数据，前后端分离开发，es6+eslint的开发方式，使用stylus编写模块化的CSS，使用vue-resource与后端数据交互等
+## 部分效果图
+![]()
